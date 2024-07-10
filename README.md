@@ -2,8 +2,13 @@
 
 This project is a NestJS application with MongoDB, Docker, and Docker Compose. The application includes user authentication and a movie endpoint.
 
-## Prerequisites
+## Project Features
+1. User authentication
+2. Movie CRUD operations
+3. Dockerized application
+4. CI/CD with GitHub Actions
 
+## Prerequisites
 - Docker
 - Docker Compose
 
